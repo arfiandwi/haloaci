@@ -17,5 +17,5 @@ v1: 20-Mar-2013 initial version, only play the offline music with playlist featu
 created by Oon Arfiandwi <br/>
 twitter: @OonID <br/>
 
-Screenshot:
-<img src="http://oo.or.id/sites/default/files/field/image/phonegap-haloaci-2013-03-20-20-22-32.png" />
+<strong>Screenshot:</strong><br/>
+<img src="http://oo.or.id/sites/default/files/styles/large/public/field/image/phonegap-haloaci-2013-03-20-20-22-32.png" />
